@@ -4,7 +4,7 @@
 > O Aplicativo permite que o usuário escolha que imagem apareça na tela.
 
 ## Funcionalidades
-> - [x] exibir duas imagens diferentes.
+> - [x] Exibir duas imagens diferentes.
 > - [x] Interface simples e intuitiva.
 
 ## Interface simples e intuitiva
