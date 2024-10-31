@@ -29,7 +29,7 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário apenas escolhe qual das duas imagens quer exibir clicando em um dos botões da tela(se aperta no primeiro aparece a foto um, se apertar no outro aparece a foto dois).
 
 ## Desenvolvedores
